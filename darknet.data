@@ -2,5 +2,5 @@ classes = 1
 train  = /root/YOLOv3-Training-Snowman-Detector/snowman_train.txt
 valid  = /root/YOLOv3-Training-Snowman-Detector/snowman_test.txt
 names = /root/YOLOv3-Training-Snowman-Detector/classes.names
-backup = /root/YOLOv3-Training-Snowman-Detector/weights/
+backup = google_drive/weights/
 
